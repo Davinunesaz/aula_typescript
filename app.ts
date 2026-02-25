@@ -36,3 +36,4 @@ const arryNum: number[] = [
 const arrString: Array<string> = [
     '1','2','3'
 ]
+
